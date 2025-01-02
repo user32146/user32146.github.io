@@ -160,7 +160,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title>Tony Teaches Tech</title>
+    <title>IELTS alebo Cambridge test - pre anglický certifikát</title>
 </head>
 <body>
 <h1>GitHub Pages Website Tutorial</h1>
