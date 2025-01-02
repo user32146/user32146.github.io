@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
-<head>Cambridge certifikáty vs. IELTS: Aký je rozdiel?
+<head><b>Cambridge certifikáty</b> vs. <b>IELTS</b>: Aký je rozdiel?
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fhands-up-don-know.html&psig=AOvVaw1zH6_0AEb8m13_S2Ew2ZwC&ust=1735940493964000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJij8reA2IoDFQAAAAAdAAAAABAE
+<img src="file:///Users/nataliamonika/Downloads/asian-man-shrug-shoulder-i-don-t-know-gesture-photo-image-funny-up-showing-denial-rejection-adult-attractive-casual-image159935209.html" width="104" height="142">
 
 </head>
 <body>
 <h1>IELTS</h1>
 <p>IELTS je skúška, ktorá meria schopnosť používať angličtinu v reálnom živote. Certifikát je platný dva roky, pretože odráža aktuálnu jazykovú úroveň. Existujú dve verzie skúšky: Academic, určená pre uchádzačov o štúdium a General Training, ktorá sa často využíva pri imigračných procesoch alebo pracovných možnostiach. Je ideálny pre tých, ktorí potrebujú flexibilné hodnotenie svojej angličtiny pre konkrétny účel.</p>
-<a href="[https://www.w3schools.com](https://ieltsregistration.britishcouncil.org)">Link na IELTS registráciu</a> 	
+<a href="https://ieltsregistration.britishcouncil.org">Link na IELTS registráciu</a> 	
 
 
 <h1>Cambridge</h1>
