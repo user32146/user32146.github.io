@@ -7,7 +7,8 @@
 <img src="denial.jpg" width="200" height="150" style="centre">
 <body>
 <h1 style="color: blue; font-family: courier; font-size: 160%;">IELTS</h1>
-<p>IELTS je skúška, ktorá meria schopnosť používať angličtinu v reálnom živote. Certifikát je platný dva roky, pretože odráža aktuálnu jazykovú úroveň. Existujú dve verzie skúšky: Academic, určená pre uchádzačov o štúdium a General Training, ktorá sa často využíva pri imigračných procesoch alebo pracovných možnostiach. Je ideálny pre tých, ktorí potrebujú flexibilné hodnotenie svojej angličtiny pre konkrétny účel.</p>
+<p>IELTS je skúška, ktorá meria schopnosť používať angličtinu v reálnom živote. Certifikát je platný dva roky, pretože odráža aktuálnu jazykovú úroveň. 
+<br>Existujú dve verzie skúšky: <i>Academic</i>, určená pre uchádzačov o štúdium a <i>General Training</i>, ktorá sa často využíva pri imigračných procesoch alebo pracovných možnostiach.</br>Je ideálny pre tých, ktorí potrebujú flexibilné hodnotenie svojej angličtiny pre konkrétny účel.</p>
 <table border-style:"dotted";border: "1px solid black">
   <tr>
     <th>Level</th>
@@ -35,7 +36,8 @@
 
 
 <h1>Cambridge</h1>
-<p>Cambridge certifikáty sú vytvorené tak, aby overili znalosť angličtiny na konkrétnej úrovni. Certifikát je po úspešnom absolvovaní skúšky platný doživotne. Je určený najmä pre ľudí, ktorí potrebujú preukázať svoje jazykové schopnosti pre profesionálne účely alebo všeobecné zlepšenie angličtiny a vhodné na zdokonaľovanie angličtiny na stabilnej úrovni.</p>
+<p>Cambridge certifikáty sú vytvorené tak, aby overili znalosť angličtiny na konkrétnej úrovni.
+<br>Certifikát je po úspešnom absolvovaní skúšky platný doživotne. </br> Je určený najmä pre ľudí, ktorí potrebujú preukázať svoje jazykové schopnosti pre profesionálne účely alebo všeobecné zlepšenie angličtiny a vhodné na zdokonaľovanie angličtiny na stabilnej úrovni.</p>
 <table border-style:"dotted";border: "1px solid black">
   <tr>
     <th>Level</th>
